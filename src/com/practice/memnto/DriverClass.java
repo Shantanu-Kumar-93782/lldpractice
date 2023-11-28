@@ -2,6 +2,8 @@ package com.practice.memnto;
 
 public class DriverClass {
 
+	
+	//Second waala tarika hai, commented waala part main hai
 	public static void main(String[] args) {
 		
 		//compose email
